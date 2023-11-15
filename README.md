@@ -1,2 +1,6 @@
 # Python-project
-In this repositry, you will find:
+In this repository, you will find:
++ Datasets
++ Code
++ Proposal
++ Report
