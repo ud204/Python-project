@@ -5,5 +5,5 @@ In this repository, you will find:
 + Proposal
 + Report
 ```
-Pending Review
+Successfully Passed
 ```
